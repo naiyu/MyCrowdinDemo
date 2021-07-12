@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCrowdinDemo</string>
+    <string name="update_content">Update the content</string>
+    <string name="long_str">abcdefghijklmnopqrstuvwxyz1234567890123456789</string>
+</resources>
